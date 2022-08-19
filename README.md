@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-a-ansari&show_icons=true&locale=en&theme=algolia" alt="hamza-a-ansari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-a-ansari&theme=algolia" alt="hamza-a-ansari" /></p>
-👋
