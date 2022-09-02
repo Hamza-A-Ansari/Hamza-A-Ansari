@@ -8,6 +8,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-a-ansari" alt="hamza-a-ansari" /></a> </p>
 
+- 🔭 I’m currently working as an Intern at The Sparks Foundation for Data Science & Business Analytics. [https://lnkd.in/dzNiugez](https://lnkd.in/dzNiugez)
+
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
 - 💬 Ask me about **Python Programming**
