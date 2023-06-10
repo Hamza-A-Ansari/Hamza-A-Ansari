@@ -15,7 +15,7 @@ domains.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-a-ansari&theme=gruvbox" alt="hamza-a-ansari" /></a> </p>
 
-- 🔭 I’m currently working as Data Analyst Intern at **SNAPPRETAIL** 
+- 🔭 I’m currently working as Data Analyst at **SNAPPRETAIL** 
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
