@@ -2,13 +2,9 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Hamza Ahmed Ansari!</h1>
 <h3 align="center">I've done my Bachelor's degree program BSc (2 years) in Mathematics, at an institute of the University of Karachi.
-Currently enrolled in the Master's degree program MCS (Masters in Computer Science) from a very reputable
-institution of the University of Karachi, Umaer Bhasha Institute of Information Technology (DCS-UBIT).
-I'm a Data Science and Artificial Intelligence enthusiast and building up my skills in Data Analysis including Data
-Cleaning, Data Visualization, Data Manipulation/Wrangling, Web Scraping, Machine Learning, and Deep Learning
-using Python along with SQL, Power BI, having keen interest in this field and want to be a part of a reputable firm.
-Always up for learning new and challenging things in solving real-world business problems across different
-domains.</h3>
+After then, I've done my Master's degree program MCS (Masters in Computer Science) from a very reputable institution of the University of Karachi, Umaer Bhasha Institute of Information Technology (DCS-UBIT).
+I'm a Data Science and Artificial Intelligence enthusiast and building up my skills in Data Analysis including Data Cleaning, Data Visualization, Data Manipulation/Wrangling, Web Scraping, Machine Learning, and Deep Learning using Python along with SQL, Power BI, having keen interest in this field and want to be a part of a reputable firm.
+Always up for learning new and challenging things in solving real-world business problems across different domains.</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamza-a-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-a-ansari" /> </p>
