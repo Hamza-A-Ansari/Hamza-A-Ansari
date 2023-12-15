@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">Hey there <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="35">, I'm Hamza Ahmed Ansari!</h1>
+<h1 align="center">Hey there <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="80" height="80">, I'm Hamza Ahmed Ansari!</h1>
 <h3 align="center">I've done my Bachelor's degree program BSc (2 years) in Mathematics, at an institute of the University of Karachi.
 After then, I've done my Master's degree program MCS (Masters in Computer Science) from a very reputable institution of the University of Karachi, Umaer Bhasha Institute of Information Technology (DCS-UBIT).
 I'm a Data Science and Artificial Intelligence enthusiast and building up my skills in Data Analysis including Data Cleaning, Data Visualization, Data Manipulation/Wrangling, Web Scraping, Machine Learning, and Deep Learning using Python along with SQL, Power BI, having keen interest in this field and want to be a part of a reputable firm.
