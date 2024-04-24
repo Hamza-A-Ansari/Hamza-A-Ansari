@@ -10,14 +10,25 @@
 After then, I've done my Master's degree program MCS (Masters in Computer Science) from a very reputable institution of the University of Karachi, Umaer Bhasha Institute of Information Technology (DCS-UBIT).
 I'm a Data Science and Artificial Intelligence enthusiast and building up my skills in Data Analysis including Data Cleaning, Data Visualization, Data Manipulation/Wrangling, Web Scraping, Machine Learning, and Deep Learning using Python along with SQL, Power BI, having keen interest in this field and want to be a part of a reputable firm.
 Always up for learning new and challenging things in solving real-world business problems across different domains.</h3>
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt3ZmU4dXZhbzZkbWI0N2xqbTQxaXFkYjRuODk0dW9kYnprcTh0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif">
+
+<div align="center" width="50">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+</div>
+<div align="center">
+  
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+  </a>
+</h1>
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamza-a-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-a-ansari" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-a-ansari&theme=gruvbox" alt="hamza-a-ansari" /></a> </p>
 
-- 🔭 I’m currently working as Data Analyst at **SNAPPRETAIL** 
+- 🔭 I’m currently working as AI Engineer at **7CTECH** 
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
@@ -32,7 +43,7 @@ Always up for learning new and challenging things in solving real-world business
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display:inline">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/319/643/png-clipart-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-thumbnail.png" alt="python" width="120" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/share.png" alt="Jupyter Notebook" width="120" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.png" alt="MySQL Workbench" width="100" height="50"/> </a>
