@@ -1,15 +1,19 @@
 <div align="center">
   <a href="https://Hamza-A-Ansari.io">
-    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" alt="MasterHead" width="100%">
+    <img src="https://1834867140.rsc.cdn77.org/wp-content/uploads/2023/09/troidoai-1.gif-1.gif" alt="MasterHead" width="100%">
   </a>
 </div>
 
 
 <h1 align="center">Hey there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">, I'm Hamza Ahmed Ansari!</h1>
-<h3 align="center">I've done my Bachelor's degree program BSc (2 years) in Mathematics, at an institute of the University of Karachi.
+<h3 align="center">
+  I've done my Bachelor's degree program BSc (2 years) in Mathematics, at an institute of the University of Karachi.
 After then, I've done my Master's degree program MCS (Masters in Computer Science) from a very reputable institution of the University of Karachi, Umaer Bhasha Institute of Information Technology (DCS-UBIT).
-I'm a Data Science and Artificial Intelligence enthusiast and building up my skills in Data Analysis including Data Cleaning, Data Visualization, Data Manipulation/Wrangling, Web Scraping, Machine Learning, and Deep Learning using Python along with SQL, Power BI, having keen interest in this field and want to be a part of a reputable firm.
-Always up for learning new and challenging things in solving real-world business problems across different domains.</h3>
+
+I am an Artificial Intelligence Engineer and Data Scientist with a proven track record of building and deploying AI-driven solutions. My expertise lies in creating scalable systems using advanced technologies, including Generative AI, NLP, deep learning, and computer vision.
+
+Passionate about leveraging AI to drive innovation, I stay updated on the latest advancements in the field and strive to deliver impactful, user-focused solutions. Let's connect to explore how we can use AI to solve real-world challenges.
+</h3>
 
 <div align="center" width="50">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
@@ -87,6 +91,9 @@ Always up for learning new and challenging things in solving real-world business
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a5675197-e6f4-4b2a-b9cd-bb65b9421b47" alt="Flask" title="Flask" width="45px" height="45px"> &nbsp;
 <img src="https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo-thumbnail.png" alt="FastApi" title="FastApi" width="45px" height="45px"> &nbsp;
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" title="Streamlit" width="45px" height="45px"> &nbsp;
+<img src="https://blogs.perficient.com/files/lanchain.png" alt="LangChain" title="LangChain" width="45px" height="45px"> &nbsp;
+<img src="https://ai.ls/assets/openai-logos/PNGs/openai-logomark.png" alt="OpenAI" title="OpenAI" width="45px" height="45px"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWIO7i3gF1_CSEPWx143BAJybYIAcTmhe4M5V6pCNsea9cWpJ7A3PFmkgMI9TIaAn4HME&usqp=CAU" alt="Gemini" title="Gemini" width="45px" height="45px"> &nbsp;
 
 
 </p>
